@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import skilstak.colors as c
+
+function print("Welcome to the Most Powerful Nyan Potato Master!")
+    
