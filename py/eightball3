@@ -2,5 +2,10 @@
 
 import skilstak.colors as c
 
-print(c.m + "Welcome to the Most Powerful Nyan Potato Master!")
+answers =[
+        "Yes",
+        "No",
+        "Maybe",
+
+print(c.multi("Welcome to the Most Powerful Nyan Potato Master!"))
     
