@@ -4,6 +4,49 @@
 
 var c = require("skilstak-colors");
 
+var answers = [
+  "Yes",
+  "No",
+  "Maybe...",
+  "YAHHHHH",
+  "never",
+  "Why Not!",
+  "Meow!",
+  "=(^.^)=",
+  "^_^",
+  "Lol",
+  "Yes, But am I  telling the truth?",
+  "No, But am I telling the truth",
+  "ERROR",
+  "COULDN'T FIND ANSWERS",
+  "ABOUT TO EXPLODE Starting Countdown 5...4...3...2...1...0...BOOM!",
+  ":P",
+  "POTATOS!!!",
+  "Verys Muches So",
+  "I like trains",
+  "I might say YAH but i might say NAH!",
+  "Of course",
+  "Not gonna happen",
+  "Nope",
+  "Yep",
+  "Dont ask me, ask THE HAMSTER ---->   =(^.^)=",
+  "Is it a ckicken or a Duck?",
+  "Trololololololololol",
+  "HA I TRICKED YOU IM NOT A COMUTER IM A MAGIC NYAN POTATO!",
+  "Grrrrrr",
+  "Look into my eyes O.o I Believe In you!"
+];
+
+var easterEggs = [
+  ["doge", "THE DOGE ARMY WILL RISE!!!"],
+  ["meme", "BURN THE MIDNIGHT MEME!!!"],
+  ["trouble", "When life brings you troubles, STAB IT WITH A SPORK!"],
+  ["bacon", "Da Da Da Da DA DA BACON MANNNNN"],
+  ["subscribers", "I HAVE 16 SUBSCRIBERS!!!"],
+  ["9+10", "21"],
+  ["nyan", "Nya, Nya, Nya, ^_^"]
+];
+
 function print(message) {
   process.stdout.write(message +  "\n");
 };

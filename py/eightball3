@@ -2,5 +2,5 @@
 
 import skilstak.colors as c
 
-function print("Welcome to the Most Powerful Nyan Potato Master!")
+print(c.m + "Welcome to the Most Powerful Nyan Potato Master!")
     
